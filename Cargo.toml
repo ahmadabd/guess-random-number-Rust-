@@ -1,0 +1,8 @@
+[package]
+name = "random_num"
+version = "0.1.0"
+authors = ["alux <ahmadabd13741112@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+rand = "0.6.5"
