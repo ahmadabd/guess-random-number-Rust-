@@ -4,16 +4,6 @@ use std::cmp::Ordering;
 
 fn main() {
 
-    // let mut tmp = 2;
-    // let bar = tmp;
-
-    // println!("bar: {}", bar);
-    // tmp = tmp + 1;
-    // println!("bar: {}", bar);
-    // println!("tmp: {}", tmp);
-
-    //----------------------------
-    
     // Get a random number between 1 to 100
     let secret_number = rand::thread_rng().gen_range(1, 101);
 
